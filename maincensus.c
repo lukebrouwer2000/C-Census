@@ -140,5 +140,6 @@ void scanAndPrint(FILE *fPtr){
 
         cPtr++;
     }
-    printf("\n---------------END FILE INFORMATION---------------\n\n");
+    printf("\n---------------END FILE INFORMATION---------------\n\n");
+
 }
